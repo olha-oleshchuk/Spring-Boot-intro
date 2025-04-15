@@ -13,7 +13,6 @@ jobs:
         uses: actions/setup-java@v3
         with:
           java-version: '21'
-          distribution: 'temurin' # Рекомендовано замість 'adopt'
 
       - name: Cache Maven packages
         uses: actions/cache@v3
