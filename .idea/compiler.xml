@@ -6,7 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="hibernate-relations-hw" />
+        <module name="Spring-Boot-intro" />
       </profile>
     </annotationProcessing>
   </component>
