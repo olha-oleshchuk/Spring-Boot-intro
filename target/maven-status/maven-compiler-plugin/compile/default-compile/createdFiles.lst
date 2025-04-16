@@ -1,5 +1,0 @@
-mate/academy/repository/impl/BookRepositoryImpl.class
-mate/academy/hibernate/relations/dao/impl/AbstractDao.class
-mate/academy/repository/BookRepository.class
-mate/academy/model/Book.class
-mate/academy/util/HibernateUtil.class
