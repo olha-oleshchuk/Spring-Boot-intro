@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="9.3">
+<file name="/Users/user/IdeaProjects/Spring-Boot-intro/src/main/java/mate/academy/repository/impl/BookRepositoryImpl.java">
+</file>
+<file name="/Users/user/IdeaProjects/Spring-Boot-intro/src/main/java/mate/academy/repository/impl/AbstractDao.java">
+</file>
+<file name="/Users/user/IdeaProjects/Spring-Boot-intro/src/main/java/mate/academy/repository/BookRepository.java">
+</file>
+<file name="/Users/user/IdeaProjects/Spring-Boot-intro/src/main/java/mate/academy/util/HibernateUtil.java">
+</file>
+<file name="/Users/user/IdeaProjects/Spring-Boot-intro/src/main/java/mate/academy/model/Book.java">
+</file>
+<file name="/Users/user/IdeaProjects/Spring-Boot-intro/src/main/resources/application.properties">
+</file>
+<file name="/Users/user/IdeaProjects/Spring-Boot-intro/src/test/resources/application.properties">
+</file>
+</checkstyle>
